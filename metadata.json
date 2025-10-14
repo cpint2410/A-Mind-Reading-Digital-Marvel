@@ -1,0 +1,5 @@
+{
+  "name": "Number Wizard",
+  "description": "A magical number guessing game. Think of a number between 1 and 60, and let the wizard guess it for you by answering a few simple questions about a series of cards.",
+  "requestFramePermissions": []
+}
